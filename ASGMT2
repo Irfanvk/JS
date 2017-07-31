@@ -1,0 +1,8 @@
+<html>
+<head>
+
+<script language="javascript">
+  document.write("Welcome to javascript programming");
+</script>
+</head>
+</html>
